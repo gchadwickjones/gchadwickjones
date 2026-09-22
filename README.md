@@ -40,7 +40,7 @@ Before moving into data, I studied Sound Design and Composition and worked towar
 
 Although I’m making a fairly big change in direction, the problem-solving side of that background has carried over surprisingly well.
 
-Sound design involves a lot of experimentation, working with technical systems, analysing what is happening and figuring out how to get the result you want. I’ve found that data analysis scratches a lot of the same itch — just with considerably fewer compressors and EQs.
+Sound design involves a lot of experimentation, working with technical systems, analysing what is happening and figuring out how to get the result you want. I’ve found that data analysis scratches a lot of the same itch, just with considerably fewer compressors and EQs!
 
 ## Projects
 
