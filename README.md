@@ -84,7 +84,7 @@ I’m continuing to develop my skills in:
 
 | Project | Description |
 |---|---|
-| [Monday Coffee: India Expansion Analysis](github.com/gchadwickjones/Monday-Coffee-India-Expansion-Analysis) | SQL analysis to identify potential cities for new coffee shop locations in India. |
+| [Monday Coffee: India Expansion Analysis](https://github.com/gchadwickjones/Monday-Coffee-India-Expansion-Analysis) | SQL analysis to identify potential cities for new coffee shop locations in India. |
 
 ---
 
