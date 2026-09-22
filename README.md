@@ -76,7 +76,7 @@ I’m continuing to develop my skills in:
 | [Airbnb London](https://github.com/gchadwickjones/What-Factors-are-Associated-with-Airbnb-Prices-and-Performance-Across-London-) | What Factors Are Associated With Airbnb Prices and Performance Across London? |
 | [A/B Marketing Analysis](https://github.com/gchadwickjones/AB-Testing-Marketing-Campaign) | Analysis of an A/B marketing experiment and conversion performance. |
 | [DataCo Late Shipment Analysis](https://github.com/gchadwickjones/DataCo-Late-Shipment-Analysis) | Analysis of factors associated with late delivery risk. |
- |
+ 
 
 ---
 
